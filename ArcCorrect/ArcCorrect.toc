@@ -1,0 +1,6 @@
+## Interface: 30000
+## Title: ArcCorrect
+## Version: 0.1.2
+## Notes: Display IDs Fixer containing the work of Ethos and BitByte, merged by HalestormXV.
+## Author: Ethos, BitByte, HalestormXV for merging and finding.
+ArcCorrect.lua
