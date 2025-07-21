@@ -1,4 +1,7 @@
 # ArcCorrect
+
+Client addon
+
 Makes red ? marks on items appear as their proper icons.
 
 Minor bugs exist. Icons may need you to close and open your bags to refresh them after swapping spaces with other items.
