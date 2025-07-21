@@ -1,6 +1,6 @@
 # ArcCorrect
 
-Client addon
+3.3.5 Client addon
 
 Makes red ? marks on items appear as their proper icons.
 
